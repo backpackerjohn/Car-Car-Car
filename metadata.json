@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Dealership AI Auto-Fill beore supabase.",
+  "description": "A chat-based progressive data collection system for car dealerships. Salespeople interact with an AI to extract customer information from conversations and driver's license images, which then automatically populates sales forms.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
